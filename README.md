@@ -1,7 +1,7 @@
 # Fall-challenge 2022 debugger @CodinGame
 
 
-I and @os-moussa created this to visualize fall-challenge maps!
+I and [@os-moussao](https://github.com/os-moussao) created this to visualize fall-challenge maps!
 
 
 ## Installation
